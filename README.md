@@ -43,3 +43,4 @@ Rols possibles:
 -  Tota la planificació del treball la trobaràs en el tauler Kanban corresponent al projecte del **teu equip**. Per exemple: @ITACADEMYprojectes's Equip B
 
   
+# Project-IT-Academy

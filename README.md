@@ -1,46 +1,14 @@
-# ProjecteData
-## Simulador Empresarial
+# Data Project
+## Business Simulation
 
-El simulador empresarial és un projecte que recrea un entorn professional per a posar en pràctica les habilitats tècniques i col·laboratives dels estudiants de IT Academy de Barcelona Activa.
+The business simulator is a project that recreates a professional environment to put into practice the technical and collaborative skills of Barcelona Activa's IT Academy students.
 
-Si recentment ingresses al projecte, llegeix tot abans de començar.
-
-## Estudiants nous
-
-¡Benvingut al repositori de Projecte Data GitHub de IT Academy de Barcelona Activa! En aquesta secció et guiarem sobre els elements claus del projecte perquè puguis aprofitar al màxim aquesta experiència d'aprenentatge.
-
-### Escenar
-Integraràs el Departament d'Analistes de Dades d'una empresa.
-
-### Equip
-En el teu equip haurà de 3 a 5 estudiants que integraran un Departament d'Analista de Dades.
-Rols possibles:
-- Analistes de Màrqueting i Comunicació
-- Analistes de Finances i Risc Creditici
-- Analistes del Perfil del Client
-- Analista d'operacions i gestió d'inventari
-- Analista d'experiència del client
-- Responsable de Qualitat del Repositori (rol rotatiu)
-- Facilitadora/ Directora del departament: Mentora
-
-### Reunions importants
-
-- Cada **dilluns** s'alliberarà el desafiament setmanal i es presentaran els resultats del desafiament anterior.
-- De **dimarts a dijous** es revisarà la planificació del treball de la setmana i es coordinarà les tasques entre membres de 
-  l'equip.
-- Cada dues setmanes, **els dijous**, es realitza una retrospectiva dels sprints realitzades.
-- El projecte requereix una dedicació setmanal, per estudiant, de 30 hores aproximadament.
-
-### Estructura del repositori
-
-- Equip: Hauràs de seleccionar la carpeta del teu equip per a treballar.
-- Data: Conté tots els fitxers essencials per treballar amb la base de dades, incloent els scripts SQL i els datasets originals en csv.
-- Scripts: Emmagatzemar tots els scripts de codi que s'utilitzen per a processar dades, realitzar anàlisis i generar resultats.
-- Results: Almacenar los resultados finales del análisis, tales como gráficos e informes.
+### Repository Structure
 
 
-### ¡TREBALLA EN EQUIP!
--  Tota la planificació del treball la trobaràs en el tauler Kanban corresponent al projecte del **teu equip**. Per exemple: @ITACADEMYprojectes's Equip B
+- Data: Contains all the essential files for working with the database, including SQL scripts and original datasets in csv.
+- Scripts: Store all the code scripts used to process data, perform analysis, and generate results.
+- Results: Store the final results of the analysis, such as graphs and reports.
 
   
 # Project-IT-Academy
